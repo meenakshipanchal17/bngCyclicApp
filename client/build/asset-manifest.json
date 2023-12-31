@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dfda17f5.css",
+    "main.js": "/static/js/main.828e98a6.js",
+    "static/media/adminportal.jpg": "/static/media/adminportal.b530976f615fc3cc6b11.jpg",
+    "static/media/admin.jpg": "/static/media/admin.c9c6b15b15d81da11f99.jpg",
+    "static/media/loginPassenger.jpg": "/static/media/loginPassenger.c6502f62f51464c59c95.jpg",
+    "static/media/driver.jpg": "/static/media/driver.0d57e18daf3c7765fe17.jpg",
+    "static/media/driverlogin.jpg": "/static/media/driverlogin.7cc28ee1ee11cf4deafd.jpg",
+    "static/media/photo-1636955691064-c9ce3ba6f470.avif": "/static/media/photo-1636955691064-c9ce3ba6f470.4339098bc08423317189.avif",
+    "static/media/redux.cjs": "/static/media/redux.f6cd7db3b857b93d3bca.cjs",
+    "index.html": "/index.html",
+    "main.dfda17f5.css.map": "/static/css/main.dfda17f5.css.map",
+    "main.828e98a6.js.map": "/static/js/main.828e98a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfda17f5.css",
+    "static/js/main.828e98a6.js"
+  ]
+}
